@@ -2,13 +2,6 @@ package cs272lab2;
 
 import java.util.Arrays;
 
-/*
- *  Author Nhat Nguyen
- *  Course: CS 272
- *  BannerID: 800608179
- *  Date: Feb 07 2019
- */
-
 public class StringSet {
 
 	// create instance variables
