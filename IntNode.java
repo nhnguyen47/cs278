@@ -1,12 +1,5 @@
 package cs272lab3;
 
-/*
- *  Author Nhat Nguyen
- *  Course: CS 272
- *  BannerID: 800608179
- *  Date: Feb 12 2019
- */
-
 public class IntNode {
 	
 	private int data;
